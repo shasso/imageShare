@@ -1,0 +1,14 @@
+/* CSS declarations go here */
+.thumbnail {
+    height: 500px;
+   
+}
+.thumbnail-img {
+    max-height: 300px;
+}
+body {
+    padding-top: 60px;
+}
+.singel-img {
+    max-width: 100%;
+}
